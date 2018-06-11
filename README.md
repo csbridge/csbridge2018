@@ -1,1 +1,3 @@
 # Stanford-Koç
+
+Github pages.
